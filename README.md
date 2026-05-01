@@ -1,3 +1,5 @@
+🌐 **Live Demo:** [Click here to open app](https://jrkhmbcjyig6na5nqfebwb.streamlit.app/)
+
 # AI Research Assistant — RAG System
 
 A fully functional Retrieval-Augmented Generation (RAG) based AI system that allows users to query research documents and receive accurate, citation-backed answers.
